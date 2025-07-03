@@ -2,4 +2,8 @@
 "I am learning Git and GitHub." 
 "This is part of my internship task." 
 "I also play guitar and learning German." 
--e "\n React Native" 
+## Skills:
+
+- React Native
+- JavaScript
+- JAVA(OOP)
